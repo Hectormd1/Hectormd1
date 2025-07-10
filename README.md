@@ -11,7 +11,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
   <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" height="30" alt="Spring Boot" />
 </p>
----
 
 ## 🧠 Sobre mí
 
