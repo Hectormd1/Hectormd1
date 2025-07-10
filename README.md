@@ -4,7 +4,7 @@
 
 ## 👋 ¡Hola! Soy Héctor Díaz  
 ### FullStack Developer | +3 años de experiencia | Apasionado por la tecnología y el desarrollo web
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="Angular" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
