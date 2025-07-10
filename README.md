@@ -16,13 +16,13 @@ Soy Héctor Díaz, desarrollador FullStack con más de 3 años de experiencia co
 ## 🧰 Tecnologías y herramientas
 
 ### 💻 Backend
-- Java · Spring Boot · Node.js · SQL · MongoDB · AWS
+- Java · Spring Boot · Node.js · SQL
 
 ### 🎨 Frontend
 - TypeScript · Angular · React · HTML · CSS
 
 ### 🛠️ Herramientas
-- Spring Tool Suite · Postman · SQLDeveloper · Git · Jira · Confluence · SoapUI
+- VsCode · Spring Tool Suite · Postman · SoapUI · SQLDeveloper · MongoDB · AWS · Git · Jira · Confluence
 
 ---
 
