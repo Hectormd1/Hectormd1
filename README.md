@@ -28,9 +28,9 @@ Soy Héctor Díaz, desarrollador FullStack con más de 3 años de experiencia co
 
 ## 🚀 Proyecto destacado
 
-**🔗 LinkFolio** – Plataforma tipo Linktree para centralizar tus redes sociales y portfolio en un solo enlace.
+**🔗 LinkFolio** – Plataforma para centralizar tus redes sociales y portfolio en un solo enlace.
 
-- 🖥️ Demo: [linkfolio.netlify.app/hectordiaz](https://linkfolio.netlify.app/hectordiaz)  
+- 🖥️ Demo: [linkfolio.netlify.app](https://linkfolio.netlify.app)  
 - 📦 Código: [GitHub - LinkFolio](https://github.com/Hectormd1/linkfolio)
 
 ---
