@@ -47,3 +47,7 @@ Soy Héctor Díaz, desarrollador FullStack con más de 3 años de experiencia co
 - 🌐 Web personal: [https://linkfolio.netlify.app/hectordiaz](https://linkfolio.netlify.app/hectordiaz)
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectormd1&layout=compact&theme=default" alt="Top Langs de Hectormd1" />
+</p>
