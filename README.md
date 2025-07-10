@@ -50,5 +50,6 @@ Soy Héctor Díaz, desarrollador FullStack con más de 3 años de experiencia co
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectormd1&layout=compact&theme=default" alt="Top Langs de Hectormd1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectormd1&layout=compact&theme=github_dark
+  " alt="Top Langs de Hectormd1" />
 </p>
