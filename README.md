@@ -12,6 +12,8 @@
   <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" height="30" alt="Spring Boot" />
 </p>
 
+---
+
 ## 🧠 Sobre mí
 
 Soy Héctor Díaz, desarrollador FullStack con más de 3 años de experiencia construyendo aplicaciones web para entornos empresariales. Me especializo en el desarrollo de microservicios con Java y Spring Boot, así como en la creación de interfaces modernas con Angular y React. Siempre estoy buscando formas de mejorar, aprender nuevas tecnologías y crear productos útiles y eficientes.
